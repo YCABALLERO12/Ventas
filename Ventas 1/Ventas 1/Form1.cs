@@ -19,7 +19,7 @@ namespace Ventas_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("dentro de la logica de nuestra humanidad, nos creemos la mentira y nadie aguanta la verdad");
         }
     }
 }
